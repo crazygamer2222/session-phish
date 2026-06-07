@@ -709,8 +709,8 @@ if __name__ == "__main__":
 |_|                                            |_|    |___/ 
 
 
-    Instagram Session Hijacker v5 - Raw Header Capture - insta:prakeerth.py
-    =======================================================================
+    Instagram Session Hijacker - Raw Header Capture - insta:prakeerth.py
+    ====================================================================
     Authorized Penetration Testing Only
 
     Captures sessionid from Instagram's raw Set-Cookie headers.
