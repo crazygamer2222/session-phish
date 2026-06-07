@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-watch.py - Real-time Instagram session monitor
+monitor.py - Real-time Instagram session monitor. follow prakeerth.py
 Run this in a separate terminal while the proxy is running.
 """
 
